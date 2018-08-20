@@ -1,13 +1,13 @@
 {
-  "name": "branch-cli-sdk",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "ember-cli-branch",
+  "version": "1.0.0",
+  "description": "Ember cli wrapper for Branch Javascript SDK",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/surkus/ember-cli-branch",
   "license": "MIT",
-  "author": "",
+  "author": "Surkus HQ",
   "directories": {
     "doc": "doc",
     "test": "tests"

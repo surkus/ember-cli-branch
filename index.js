@@ -2,7 +2,7 @@
 var fastbootTransform = require('fastboot-transform');
 
 module.exports = {
-  name: 'branch-cli-sdk',
+  name: 'ember-cli-branch',
 
   options: {
     nodeAssets: {

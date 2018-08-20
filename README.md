@@ -1,13 +1,13 @@
-branch-cli-sdk
+ember-cli-branch
 ==============================================================================
 
-[Short description of the addon.]
+Ember cli wrapper for Branch Javascript SDK
 
 Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install branch-cli-sdk
+ember install ember-cli-branch
 ```
 
 
@@ -23,7 +23,7 @@ Contributing
 ### Installation
 
 * `git clone <repository-url>`
-* `cd branch-cli-sdk`
+* `cd ember-cli-branch`
 * `npm install`
 
 ### Linting
