@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-branch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ember cli wrapper for Branch Javascript SDK",
   "keywords": [
     "branch",
