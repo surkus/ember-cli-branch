@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Ember cli wrapper for Branch Javascript SDK",
   "keywords": [
+    "branch",
+    "branchio",
     "ember-addon"
   ],
-  "repository": "https://github.com/surkus/ember-cli-branch",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/surkus/ember-cli-branch"
+  },
   "license": "MIT",
   "author": "Surkus HQ",
   "directories": {
