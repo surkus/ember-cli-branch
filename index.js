@@ -1,7 +1,7 @@
 'use strict';
 
-var path = require('path');
-var fastbootTransform = require('fastboot-transform');
+const path = require('path');
+const fastbootTransform = require('fastboot-transform');
 const Funnel = require('broccoli-funnel');
 const mergeTrees = require('broccoli-merge-trees');
 const resolve = require('resolve');

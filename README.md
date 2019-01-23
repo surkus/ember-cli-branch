@@ -3,11 +3,19 @@ ember-cli-branch
 
 Ember cli wrapper for Branch Javascript SDK
 
+
+Compatibility
+------------------------------------------------------------------------------
+
+* Ember.js v2.18 or above
+* Ember CLI v2.13 or above
+
+
 Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-cli-branch
+ember install @surkus/ember-cli-branch
 ```
 
 
